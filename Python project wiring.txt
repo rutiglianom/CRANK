@@ -1,0 +1,18 @@
+RS - Brown(GPIO 2)
+E - Black(GPIO 3)
+D4 - Red(GPIO 4)
+D5 - Orange(GPIO 17)
+D6 - Yellow(GPIO 27)
+D7 - Green(GPIO 22)
+
+Col1 - White(GPIO 6)
+Col2 - Gray(GPIO 13)
+Col3 - Purple(GPIO 19)
+Row1 - Blue(GPIO 26)
+Row2 - Green(GPIO 16)
+Row3 - Yellow(GPIO 20)
+Row4 - Orange(GPIO 21)
+
+Title ideas:
+Crank that Razr flex boy
+CRANK (Crazy reflexes and no kalendar)
